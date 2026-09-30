@@ -6,7 +6,7 @@
 
 預計網址：[https://nelson0405.github.io/My1stCopilotWorkshoop/](https://nelson0405.github.io/My1stCopilotWorkshoop/)
 
-GitHub Pages 尚未啟用，因此目前網址尚無法作為線上展示。啟用 Pages 並確認部署成功後，再將此處作為正式展示連結。
+GitHub Pages 已從 `main` 分支的根目錄部署，網站已可公開瀏覽。
 
 ## 功能
 
